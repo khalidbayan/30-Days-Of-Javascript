@@ -51,4 +51,3 @@ console.log(Math.floor(randIntTwo))
 let randIntThree = Math.random(50,255)*255
 console.log(Math.floor(randIntThree))
  
-
