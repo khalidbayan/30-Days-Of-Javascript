@@ -95,3 +95,4 @@ console.log(firstSentence.concat(secondSentence))
 // Use repeat() method to print 30 Days Of JavaScript 2 times
 console.log(challenge.repeat(2))
 
+// Finished level 1 exercises
