@@ -73,5 +73,4 @@ function BMICalculator(weight,height){
 }
 
 console.log(Math.floor(BMICalculator(63,1.8)))
-
  
