@@ -19,7 +19,10 @@ dog = {
 
     bark: function(){
         return "woof woof"
-    }
+    },
+    greetDog(){
+        console.log("hi dog")
+    },
 }
 
 
