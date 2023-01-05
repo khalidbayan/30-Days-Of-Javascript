@@ -34,3 +34,17 @@ console.log(dog.bark())
 dog.breed = 'snoopdoog'
 
 console.log(dog)
+
+
+let person = {
+
+    name: "khalid",
+    address: {
+        city: "baalbeck",
+        country: "lebanon"
+    },
+    hobbies: ["watching football", "jogging"]
+}
+
+console.log(person.address.city)
+console.log(person.hobbies[0])
